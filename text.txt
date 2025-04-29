@@ -1,0 +1,10 @@
+header
+標題1：Bakery
+標題3：Welcome to the best bakery in town. We bring you not only the bakeries, but your daily energy.
+
+section
+標題3：Bakery One、Bakery Two、Bakery Three、Bakery Four
+段落：Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, nam vero adipisci quasi quas eaque dolorem nesciunt rerum reiciendis blanditiis itaque et deleniti dicta sapiente pariatur voluptates earum laboriosam quae.
+
+footer
+段落：&copy; Bakery Contacts:<br />Taipei:&nbsp;(02)2577-8806 | Taichung:&nbsp;(04)2238-6572 | Tainan:&nbsp;(07)311-9568 
